@@ -1,0 +1,18 @@
+﻿  Vec3.cpp
+w:\voysys-test\voysys\voysys\vec3.cpp(91): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(92): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(93): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(99): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(100): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(101): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(115): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+w:\voysys-test\voysys\voysys\vec3.cpp(117): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+w:\voysys-test\voysys\voysys\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+w:\voysys-test\voysys\voysys\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  moon.cpp
+w:\voysys-test\voysys\voysys\moon.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+w:\voysys-test\voysys\voysys\moon.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  voysys.vcxproj -> W:\voysys-test\voysys\Debug\voysys.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "voysys", "voysys\voysys.vcxproj", "{3A2631EF-600B-4402-A1EE-3436959C5806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Debug|x64.ActiveCfg = Debug|x64
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Debug|x64.Build.0 = Debug|x64
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Debug|x86.Build.0 = Debug|Win32
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Release|x64.ActiveCfg = Release|x64
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Release|x64.Build.0 = Release|x64
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Release|x86.ActiveCfg = Release|Win32
+		{3A2631EF-600B-4402-A1EE-3436959C5806}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55756C73-ED47-45BB-BFE3-D7E214373FCC}
+	EndGlobalSection
+EndGlobal
